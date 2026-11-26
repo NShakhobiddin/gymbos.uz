@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nshakhobiddin.github.io/gymbos.uz/sitemap.xml
